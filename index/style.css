@@ -1,0 +1,234 @@
+
+
+.NavName{
+    color: white;
+    margin-right:10;
+    }
+
+#MenuItems{
+    width: 100%;
+
+}
+
+.bodyBackground{
+    background-color: rgb(209, 209, 209);
+    height: 100%;  
+    margin-top:-4%
+}
+
+.container{
+    margin-top:2%
+}
+
+.NameLogo{
+    background-color: #4aaaa5;
+    margin-top:-1%;
+    padding: 1.3%;
+}
+
+p{
+    color: darkgray;
+    margin-left: 12px;
+}
+
+h1{
+    color: #4aaaa5;
+}
+
+.Pfooter{
+    color: lightgray;
+    margin-top:-1%;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 35px;
+    border-top: solid 8px #4aaaa5;
+    background-color: #666666;
+    font-size: 13px;
+    color: #cccccc;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 7.5%
+  }
+
+
+  .jumbotronCustom{
+    background-color: white;
+}
+
+
+
+
+
+/* .navbar{
+    background-color: white !important;
+    height: 7%;
+}
+
+.nav-link{
+    color:white;
+}
+
+.float-left{
+    font-size: 12px;
+}   
+
+
+h1{
+    margin-top: -40;
+    color: #4aaaa5;
+}
+
+#footer{
+    color: #666666;
+}
+
+#imgText{
+    margin-right: 2%;
+}
+
+.NameLogo{
+    padding: 35;
+    float: left;
+    margin-left: 14.5%;
+    background-color: #4aaaa5;
+    margin-top:-1%;
+    height: 75
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 35px;
+    border-top: solid 8px #4aaaa5;
+    background-color: #666666;
+    font-size: 13px;
+    color: #cccccc;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 7.5%
+  }
+
+  .bodyBackground{
+    background-color: rgb(230, 230, 230);  
+    width: 100%;
+    height: 100%;
+    margin-top:-2%;
+}
+
+.jumbotronCustom{
+    margin-top:-68%;
+    background-color: white;
+    }
+
+    p{
+        color: darkgray;
+        padding-top:13
+    }
+
+    #MenuItems{
+        width: 100%;
+        float: right;
+        margin-right:14%;
+    }
+
+    .Pfooter{
+        color: lightgray;
+        margin-top:-1%;
+    } */
+
+
+
+
+
+
+
+
+
+/* .navbar{
+    background-color: white !important;
+    height: 7%;
+}
+
+.nav-link{
+    color:white;
+}
+
+.float-left{
+    font-size: 12px;
+}   
+
+
+h1{
+    margin-top: -40;
+    color: #4aaaa5;
+}
+
+#footer{
+    color: #666666;
+}
+
+#imgText{
+    margin-right: 2%;
+}
+
+.NameLogo{
+    padding: 35;
+    float: left;
+    margin-left: 14.5%;
+    background-color: #4aaaa5;
+    margin-top:-1%;
+    height: 75
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 35px;
+    border-top: solid 8px #4aaaa5;
+    background-color: #666666;
+    font-size: 13px;
+    color: #cccccc;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 7.5%
+  }
+
+  .bodyBackground{
+    background-color: rgb(230, 230, 230);  
+    width: 100%;
+    height: 100%;
+    margin-top:-2%;
+}
+
+.jumbotronCustom{
+    margin-top:-68%;
+    background-color: white;
+    }
+
+    p{
+        color: darkgray;
+        padding-top:13
+    }
+
+    #MenuItems{
+        width: 100%;
+        float: right;
+        margin-right:14%;
+    }
+
+    .Pfooter{
+        color: lightgray;
+        margin-top:-1%;
+    } */
+
+
+
