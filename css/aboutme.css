@@ -1,4 +1,7 @@
-
+.navbar{
+    background-color: white !important;
+    height:9.4%
+}
 
 .NavName{
     color: white;
@@ -13,7 +16,7 @@
 .bodyBackground{
     background-color: rgb(209, 209, 209);
     height: 100%;  
-    margin-top:-4%
+    margin-top:-3%;
 }
 
 .container{
